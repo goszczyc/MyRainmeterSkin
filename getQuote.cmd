@@ -1,1 +1,0 @@
-python C:\Users\szymong\Documents\Rainmeter\Skins\Quotes\getQuotes.py
